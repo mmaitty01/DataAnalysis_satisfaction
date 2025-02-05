@@ -19,12 +19,12 @@ This project, a customer satisfaction survey for stores, is part of the Introduc
 1. จำนวนผู้เข้าร่วมจัดร้านค้าในกรุงเทพมหานครและปริมณฑล ที่มีความสนใจจะมาร่วมจัดงานในครั้งต่อไป
 2. เปรียบเทียบจำนวนคนที่มาแน่นอน คนที่ไม่แน่ใจ และคนไม่มา ซึ่งเป็นผู้ประเมิณที่ขายสินค้าในงาน ที่ให้คะแนนการประเมิณ 4 ทุกหัวข้อ  
 3. ค่าเฉลี่ยคะแนนความพึงพอใจเจ้าของกิจการกับพนักงานขายมีต่อการจัดงานครั้งนี้
-https://github.com/user-attachments/assets/18fb6155-bd3e-44e4-b58f-5905ac871240
 
 ## Visualization
 <p align="center"><img width="600" src = "https://github.com/user-attachments/assets/18fb6155-bd3e-44e4-b58f-5905ac871240"><br>
-<img width="400" src = "https://github.com/user-attachments/assets/24a5026f-4178-46ae-bfd9-8b8c04078716">
+<img width="400" src = "https://github.com/user-attachments/assets/727a61cb-d6d4-4e83-aecb-82a72ff6325a">
 <img width="400" src = "https://github.com/user-attachments/assets/0c94cc8d-eba9-4e55-81a0-1f1023d1674d"></p>
+
 
 
 ## Getting Started
